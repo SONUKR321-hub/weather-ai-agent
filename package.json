@@ -1,0 +1,15 @@
+{
+  "name": "weather-ai-agent",
+  "version": "1.0.0",
+  "description": "A weather AI agent using OpenAI and OpenWeatherMap APIs",
+  "main": "srver.js",
+  "scripts": {
+    "start": "node srver.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
